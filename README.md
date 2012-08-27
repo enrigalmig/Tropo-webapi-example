@@ -1,7 +1,7 @@
 Tropo-webapi-example
 ====================
 
-This is a Sinatra app that shows how to use [Tropo WebAPI](https://www.tropo.com/docs/webapi/new_tropo_web_api_overview.htm) to track two way SMS conversations. The Tropo Web API is a web-service API that lets you build communications applications that run on your servers and drive the Tropo cloud using JSON over HTTP.
+This is a Sinatra app that shows how to use [Tropo WebAPI](https://www.tropo.com/docs/webapi/new_tropo_web_api_overview.htm) to track two way SMS conversations. The Tropo Web API is a web-service API that lets you build communications applications that run on your servers and handles the Tropo cloud using JSON over HTTP.
 
 This example requests information from the caller and waits for a response via SMS.
 
